@@ -20,5 +20,5 @@
   
   ### Fico feliz por ter chegado até aqui, obrigado!
   
-  ![snake gif](https://github.com/dasiilva160/dasiilva160/blob/output/github-contribution-grid-snake.svg)
+
   
