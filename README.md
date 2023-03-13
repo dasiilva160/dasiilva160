@@ -19,3 +19,5 @@
   Programador em formação na Faculdade nove de julho (UNINOVE) com foco em front-end, sempre procurando me aperfeiçoar para me tornar programador o mais breve possivel!
   
   ### Fico feliz por ter chegado até aqui, obrigado!
+  
+  ![snake gif](https://github.com/dasiilva160/dasiilva160/blob/output/github-contribution-grid-snake.svg)
