@@ -20,5 +20,7 @@
   
   ### Fico feliz por ter chegado até aqui, obrigado!
   
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
 
   
