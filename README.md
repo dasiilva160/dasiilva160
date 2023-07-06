@@ -5,7 +5,6 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://contate.me/gabrielssantos)
 [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/g_siilva00/)
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=dasiilva160&show_icons=true&theme=dark)
 
 ### Tecnologias que estou aprendendo e desenvolvendo.
 
