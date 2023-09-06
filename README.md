@@ -12,6 +12,8 @@
  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
  <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img align="center" alt="javascript" src="[https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E](https://user-images.githubusercontent.com/93956445/161402465-60b1f3bd-3ccc-4f73-9e25-c4e38c2cdbc7.png)">
+ 
  </div><br></br>
 
   Programador em formação na Faculdade nove de julho (UNINOVE) com foco em front-end, sempre procurando me aperfeiçoar para me tornar programador o mais breve possivel!
